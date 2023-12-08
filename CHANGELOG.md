@@ -13,6 +13,57 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.0.3
+
+The following files were updated:
+- `CHANGELOG.md`, to include new dependabot dependency updates/pull requests.
+
+## Merge pull request #1 from trleahy/dependabot/bundler/jekyll-4.3.2
+
+Bump jekyll from 4.3.0 to 4.3.2
+
+## Bump jekyll from 4.3.0 to 4.3.2
+
+{: .highlight }
+Commit from: dependabot[bot]
+
+Bumps [jekyll](https://github.com/jekyll/jekyll) from 4.3.0 to 4.3.2.
+- [Release notes](https://github.com/jekyll/jekyll/releases)
+- [Changelog](https://github.com/jekyll/jekyll/blob/master/History.markdown)
+- [Commits](jekyll/jekyll@v4.3.0...v4.3.2)
+
+---
+updated-dependencies:
+- dependency-name: jekyll
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+## Merge pull request #2 from trleahy/dependabot/bundler/just-the-docs-0.7.0
+
+Bump just-the-docs from 0.5.0 to 0.7.0
+
+## Bump just-the-docs from 0.5.0 to 0.7.0
+
+{: .highlight }
+Commit from: dependabot[bot]
+
+Bumps [just-the-docs](https://github.com/just-the-docs/just-the-docs) from 0.5.0 to 0.7.0.
+- [Release notes](https://github.com/just-the-docs/just-the-docs/releases)
+- [Changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md)
+- [Commits](just-the-docs/just-the-docs@v0.5.0...v0.7.0)
+
+---
+updated-dependencies:
+- dependency-name: just-the-docs
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
 ## Release v0.0.2
 
 GitHub Pages failed to build.
