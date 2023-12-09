@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Ubuntu Server 20.04 LTS
+title: Configure Static IP address
 parent: Ubuntu Server
-grand_parent: Ubuntu
-permalink: /docs/ui-components/code/line-numbers/
+nav_order: 1
 ---
 
-# Ubuntu Server 20.04 LTS
+# Configure Static IP address
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada fames ac turpis egestas sed tempus urna et pharetra.

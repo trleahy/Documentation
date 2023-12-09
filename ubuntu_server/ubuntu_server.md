@@ -3,6 +3,7 @@ layout: default
 title: Ubuntu Server
 nav_order: 2
 has_children: true
+permalink: /ubuntu-server
 ---
 
 # Ubuntu
