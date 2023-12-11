@@ -8,8 +8,6 @@ search_exclude: true
 
 All notable changes to this project are documented in this file.
 
-## HEAD
-
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
