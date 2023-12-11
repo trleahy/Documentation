@@ -93,7 +93,7 @@ Example:
 
 ***
 
-## Ubuntu Server 20.04 LTS
+## Ubuntu Server 18.04 LTS
 
 List all available network interfaces
 

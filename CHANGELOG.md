@@ -11,6 +11,18 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.0.8
+
+The following files were updated:
+- `/ubuntu_server/configure_static_ip.md`
+- `CHANGELOG.md`
+
+## Release v0.0.7
+
+The following files were updated:
+- `/ubuntu_server/configure_static_ip.md`
+- `CHANGELOG.md`
+
 ## Release v0.0.6
 
 The following files were updated:
