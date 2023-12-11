@@ -89,7 +89,7 @@ Example:
        valid_lft 3575sec preferred_lft 3575sec
     inet6 fe80::5054:ff:feb0:f500/64 scope link
        valid_lft forever preferred_lft forever
-       ```
+```
 
 ***
 
