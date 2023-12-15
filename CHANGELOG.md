@@ -11,6 +11,14 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.0.14
+
+The following files were loaded:
+- `DOCS.md`
+
+The following files were updated:
+- `CHANGELOG.md`
+
 ## Release v0.0.13
 
 The following files were updated:
