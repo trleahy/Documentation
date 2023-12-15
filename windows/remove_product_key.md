@@ -2,7 +2,7 @@
 layout: default
 title: Remove Windows Product Key
 parent: Windows
-nav_order: 1
+nav_order: 3
 ---
 
 # Remove Windows Product Key
