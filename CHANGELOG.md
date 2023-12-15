@@ -11,6 +11,25 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.1.1
+
+The following files were updated:
+- `/windows/default_keys.md`
+- `CHANGELOG.md`
+
+## Release v0.1.0
+
+All notes from Agenda have been fully transferred over to this project.
+
+The following files were loaded:
+- `default_keys.md`
+
+The following files were updated:
+- `enable_in-built_administrator_account.md`
+- `remove_product_key.md`
+- `DOCS.md`
+- `index.md`
+
 ## Release v0.0.14
 
 The following files were loaded:

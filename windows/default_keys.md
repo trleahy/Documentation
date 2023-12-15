@@ -24,6 +24,7 @@ These keys only select the edition of Windows to install during setup, but they 
 A fully licensed copy of Windows to install this on your system.
 
 [KMS Client Product Keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys){:target="_blank"}
+
 [Default Product Keys *for OEM Activation 3.0*](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/oem-activation-3){:target="_blank"}
 
 ## Windows 11
@@ -96,13 +97,13 @@ A fully licensed copy of Windows to install this on your system.
 
 ## Windows 7
 
-| Windows 7 Version      | Product Key                   |
-|:-----------------------|:------------------------------|
-| Windows 7 Ultimat      | D4F6K-QK3RD-TMVMJ-BBMRX-3MBMV |
-| Windows 7 Professional | HYF8J-CVRMY-CM74G-RPHKF-PW487 |
-| Windows 7 Home Premium | RHPQ2-RMFJH-74XYM-BH4JX-XM76F |
-| Windows 7 Home Basic   | YGFVB-QTFXQ-3H233-PTWTJ-YRYRV |
-| Windows 7 Starter      | 7Q28W-FT9PC-CMMYT-WHMY2-89M6G |
+| Windows 7 Version       | Product Key                   |
+|:------------------------|:------------------------------|
+| Windows 7 Ultimate      | D4F6K-QK3RD-TMVMJ-BBMRX-3MBMV |
+| Windows 7 Professional  | HYF8J-CVRMY-CM74G-RPHKF-PW487 |
+| Windows 7 Home Premium  | RHPQ2-RMFJH-74XYM-BH4JX-XM76F |
+| Windows 7 Home Basic    | YGFVB-QTFXQ-3H233-PTWTJ-YRYRV |
+| Windows 7 Starter       | 7Q28W-FT9PC-CMMYT-WHMY2-89M6G |
 
 ## References
 
