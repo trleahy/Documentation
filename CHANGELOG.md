@@ -11,10 +11,19 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.0.11
+
+The following files were loaded:
+- `/ubuntu_server/disable_ipv6_via_sysctl.md`
+
+The following files were updated:
+- `/ubuntu_server/updating_applications.md`
+- `CHANGELOG.md`
+
 ## Release v0.0.10
 
 The following files were loaded:
-- `updating_applications.md`
+- `/ubuntu_server/updating_applications.md`
 
 The following files were updated:
 - `CHANGELOG.md`

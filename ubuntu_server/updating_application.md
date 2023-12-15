@@ -2,17 +2,10 @@
 layout: default
 title: Updating Applications
 parent: Ubuntu Server
-nav_order: 2
+nav_order: 3
 ---
 
 # Updating Applications
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ***
 
