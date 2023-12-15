@@ -14,6 +14,8 @@ nav_order: 1
 1. TOC
 {:toc}
 
+***
+
 ## Ubuntu Server 20.04 LTS
 
 Ubuntu 17.10 and later uses [Netplan](https://netplan.io/) as the default network management tool. Netplan configuration files are written in YAML syntax with a .yaml file extension.

@@ -11,6 +11,19 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.0.12
+
+New directory created:
+- `windows`
+
+The following files were loaded:
+- `/windows/windows.md`
+
+The following files were updated:
+- `/ubuntu_server/configure_static_ip.md`
+- `/ubuntu_server/disable_ipv6_via_sysctl.md`
+- `CHANGELOG.md`
+
 ## Release v0.0.11
 
 The following files were loaded:

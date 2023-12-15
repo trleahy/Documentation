@@ -14,6 +14,8 @@ nav_order: 2
 1. TOC
 {:toc}
 
+***
+
 ## Ubuntu Server 20.04 LTS
 
 For this, you'll have to edit the */etc/sysctl.conf* file.
