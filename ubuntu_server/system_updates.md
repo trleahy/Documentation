@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Updating Applications
+title: System Updates
 parent: Ubuntu Server
-nav_order: 3
 ---
 
-# Updating Applications
+# System Updates
 
 ***
 

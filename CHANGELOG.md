@@ -11,6 +11,17 @@ All notable changes to this project are documented in this file.
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
+## Release v0.1.2
+
+The following files were updated:
+- `/ubuntu_server/system_updates.md`, renamed from `/ubuntu_server/updating_applications.md`
+- `/ubuntu_server/configure_static_ip.md`
+- `/ubuntu_server/disable_ipv6_via_sysctl.md`
+- `CHANGELOG.md`
+
+The following files were loaded:
+- `applications.md`
+
 ## Release v0.1.1
 
 The following files were updated:

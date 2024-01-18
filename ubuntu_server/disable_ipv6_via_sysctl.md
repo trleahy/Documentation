@@ -2,7 +2,6 @@
 layout: default
 title: Disable IPv6 Via sysctl
 parent: Ubuntu Server
-nav_order: 2
 ---
 
 # Disable IPv6 Via sysctl

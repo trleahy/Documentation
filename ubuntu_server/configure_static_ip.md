@@ -2,7 +2,6 @@
 layout: default
 title: Configure Static IP address
 parent: Ubuntu Server
-nav_order: 1
 ---
 
 # Configure Static IP address
