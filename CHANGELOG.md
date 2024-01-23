@@ -14,6 +14,20 @@ This website is built from the `main` branch of the theme repository.
 ## Release v0.1.2
 
 The following files were updated:
+- `CHANGELOG.md`
+
+The following files were loaded:
+- `/synology`
+- `/synology/synology.md`
+- `/synology/applications.md`
+
+## Merge pull request #3 from trleahy/dependabot/bundler/jekyll-4.3.3
+
+Bump jekyll from 4.3.2 to 4.3.3
+
+## Release v0.1.2
+
+The following files were updated:
 - `/ubuntu_server/system_updates.md`, renamed from `/ubuntu_server/updating_applications.md`
 - `/ubuntu_server/configure_static_ip.md`
 - `/ubuntu_server/disable_ipv6_via_sysctl.md`
