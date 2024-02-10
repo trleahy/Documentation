@@ -31,7 +31,7 @@ In the Synology DSM web admin UI, go to:
 
 `Main menu > Package Center`
 
-Click **Manual Install**, **click Browse**, select the SPK (.spk) file that you downloaded, and then click **Next**.
+Click **Manual Install**, click **Browse**, select the SPK (.spk) file that you downloaded, and then click **Next**.
 
 Follow the remaining prompts to confirm settings and complete installation.
 

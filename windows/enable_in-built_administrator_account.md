@@ -2,7 +2,6 @@
 layout: default
 title: Enable In-built Windows Administrator Account
 parent: Windows
-nav_order: 2
 ---
 
 # Enable In-built Windows Administrator Account

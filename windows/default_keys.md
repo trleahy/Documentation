@@ -2,7 +2,6 @@
 layout: default
 title: Default Keys
 parent: Windows
-nav_order: 1
 ---
 
 # Default Keys

@@ -6,12 +6,29 @@ search_exclude: true
 
 # CHANGELOG
 
+{: .warning }
+This page is no longer updated, to view changes, please see GihHub Commits.
+
 All notable changes to this project are documented in this file.
 
 {: .note }
 This website is built from the `main` branch of the theme repository.
 
-## Release v0.1.2
+## Release v0.1.4
+
+The following files were updated:
+- `/windows/default_keys.md`
+- `/windows/enable_in-built_administrator_account.md`
+- `/windows/remove_product_key.md`
+
+- `CHANGELOG.md`
+
+The following files were loaded:
+- `/windows/renaming_user_account_path.md`
+
+## Merge branch 'main' of https://github.com/trleahy/Documentation
+
+## Release v0.1.3
 
 The following files were updated:
 - `CHANGELOG.md`
